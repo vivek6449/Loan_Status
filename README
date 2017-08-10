@@ -1,0 +1,7 @@
+Loan Status Classification Problem
+
+This is the Loan Prediction Classification Algorithm using various features to predict whether applicant will get Loan or not.
+
+I have used various various imputation methods, data cleaning and feature engineering.
+
+I also used various classification algorithms to classify Loan_Status.
